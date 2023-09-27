@@ -1,4 +1,8 @@
 # City-Learn-AI-Crowd
+
+![ForeCastTrackimg](https://github.com/UKVeteran/City-Learn-AI-Crowd/assets/39216339/30d2a0d9-dc47-4c6b-934e-f4872fa28144)
+
+
 The CityLearn Challenge 2023 addresses this multi-faceted nature of advanced control in buildings by blending the challenges of control algorithm design, forecast quality and grid-resilience. The CityLearn Challenge 2023 presents a control track as done in previous challenges as well as introduces an independent forecast track where, both tracks are run in parallel and utilize the same dataset.
 
 In this forecast track, participants will design regression models to predict the 48-hour-ahead end-use load profiles for each building in a synthetic single-family neighborhood as well as the neighborhood-level 48-hour-ahead solar generation and carbon intensity profiles.
