@@ -25,11 +25,11 @@ The forecast track score, ScoreForecast, is the average over all of the variable
 
 where:
 
-t: Environment time step index;
-n: Total number of time steps, t, in 1 episode;
-τ: Forecasting window time step index;
-w: Length of forecasting window (48hrs);
-b: Total number of buildings;
-v: Forecasting variable;
-V: Total number of variables to forecast (3b + 2),
-ft,τv: Forecast of variable v for time step t+τ, made at time t
+t: Environment time step index; <br>
+n: Total number of time steps, t, in 1 episode;<br>
+τ: Forecasting window time step index;<br>
+w: Length of forecasting window (48hrs);<br>
+b: Total number of buildings;<br>
+v: Forecasting variable;<br>
+V: Total number of variables to forecast (3b + 2);<br>
+ft,τv: Forecast of variable v for time step t+τ, made at time t.
