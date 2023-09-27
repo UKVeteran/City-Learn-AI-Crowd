@@ -8,7 +8,6 @@ The CityLearn Challenge 2023 addresses this multi-faceted nature of advanced con
 In this forecast track, participants will design regression models to predict the 48-hour-ahead end-use load profiles for each building in a synthetic single-family neighborhood as well as the neighborhood-level 48-hour-ahead solar generation and carbon intensity profiles.
 
 # Problem Statement
-
 In the forecast track, participants are to develop regression prediction models for forecasting building loads, grid carbon intensity and solar generation. The forecasts should be provided at each time step for the following 48 time steps. The variables to be predicted are: 
 
 ## BUILDING-LEVEL
