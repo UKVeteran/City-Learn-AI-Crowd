@@ -1,0 +1,249 @@
+Shape of DataFrame 1: (720, 15)
+Shape of DataFrame 2: (720, 15)
+Shape of DataFrame 3: (720, 15)
+Shape of DataFrame 4: (720, 1)
+Shape of DataFrame 5: (720, 4)
+Shape of DataFrame 6: (720, 16)
+
+
+
+
+Missing values in DataFrame 1:
+Month                                            0
+Hour                                             0
+Day Type                                         0
+Daylight Savings Status                          0
+Indoor Temperature (C)                           0
+Average Unmet Cooling Setpoint Difference (C)    0
+Indoor Relative Humidity (%)                     0
+Equipment Electric Power (kWh)                   0
+DHW Heating (kWh)                                0
+Cooling Load (kWh)                               0
+Heating Load (kWh)                               0
+Solar Generation (W/kW)                          0
+Occupant Count (people)                          0
+Temperature Set Point (C)                        0
+HVAC Mode (Off/Cooling/Heating)                  0
+dtype: int64
+Missing values in DataFrame 2:
+Month                                            0
+Hour                                             0
+Day Type                                         0
+Daylight Savings Status                          0
+Indoor Temperature (C)                           0
+Average Unmet Cooling Setpoint Difference (C)    0
+Indoor Relative Humidity (%)                     0
+Equipment Electric Power (kWh)                   0
+DHW Heating (kWh)                                0
+Cooling Load (kWh)                               0
+Heating Load (kWh)                               0
+Solar Generation (W/kW)                          0
+Occupant Count (people)                          0
+Temperature Set Point (C)                        0
+HVAC Mode (Off/Cooling/Heating)                  0
+dtype: int64
+Missing values in DataFrame 3:
+Month                                            0
+Hour                                             0
+Day Type                                         0
+Daylight Savings Status                          0
+Indoor Temperature (C)                           0
+Average Unmet Cooling Setpoint Difference (C)    0
+Indoor Relative Humidity (%)                     0
+Equipment Electric Power (kWh)                   0
+DHW Heating (kWh)                                0
+Cooling Load (kWh)                               0
+Heating Load (kWh)                               0
+Solar Generation (W/kW)                          0
+Occupant Count (people)                          0
+Temperature Set Point (C)                        0
+HVAC Mode (Off/Cooling/Heating)                  0
+dtype: int64
+Missing values in DataFrame 4:
+kg_CO2/kWh    0
+dtype: int64
+Missing values in DataFrame 5:
+Electricity Pricing [$/kWh]                   0
+6h Prediction Electricity Pricing [$/kWh]     0
+12h Prediction Electricity Pricing [$/kWh]    0
+24h Prediction Electricity Pricing [$/kWh]    0
+dtype: int64
+Missing values in DataFrame 6:
+Outdoor Drybulb Temperature (C)        0
+Outdoor Relative Humidity (%)          0
+Diffuse Solar Radiation (W/m2)         0
+Direct Solar Radiation (W/m2)          0
+6h Outdoor Drybulb Temperature (C)     0
+12h Outdoor Drybulb Temperature (C)    0
+24h Outdoor Drybulb Temperature (C)    0
+6h Outdoor Relative Humidity (%)       0
+12h Outdoor Relative Humidity (%)      0
+24h Outdoor Relative Humidity (%)      0
+6h Diffuse Solar Radiation (W/m2)      0
+12h Diffuse Solar Radiation (W/m2)     0
+24h Diffuse Solar Radiation (W/m2)     0
+6h Direct Solar Radiation (W/m2)       0
+12h Direct Solar Radiation (W/m2)      0
+24h Direct Solar Radiation (W/m2)      0
+dtype: int64
+
+
+
+
+Data types in DataFrame 1:
+Month                                              int64
+Hour                                               int64
+Day Type                                           int64
+Daylight Savings Status                            int64
+Indoor Temperature (C)                           float64
+Average Unmet Cooling Setpoint Difference (C)    float64
+Indoor Relative Humidity (%)                     float64
+Equipment Electric Power (kWh)                   float64
+DHW Heating (kWh)                                float64
+Cooling Load (kWh)                               float64
+Heating Load (kWh)                               float64
+Solar Generation (W/kW)                          float64
+Occupant Count (people)                          float64
+Temperature Set Point (C)                        float64
+HVAC Mode (Off/Cooling/Heating)                    int64
+dtype: object
+Data types in DataFrame 2:
+Month                                              int64
+Hour                                               int64
+Day Type                                           int64
+Daylight Savings Status                            int64
+Indoor Temperature (C)                           float64
+Average Unmet Cooling Setpoint Difference (C)    float64
+Indoor Relative Humidity (%)                     float64
+Equipment Electric Power (kWh)                   float64
+DHW Heating (kWh)                                float64
+Cooling Load (kWh)                               float64
+Heating Load (kWh)                               float64
+Solar Generation (W/kW)                          float64
+Occupant Count (people)                          float64
+Temperature Set Point (C)                        float64
+HVAC Mode (Off/Cooling/Heating)                    int64
+dtype: object
+Data types in DataFrame 3:
+Month                                              int64
+Hour                                               int64
+Day Type                                           int64
+Daylight Savings Status                            int64
+Indoor Temperature (C)                           float64
+Average Unmet Cooling Setpoint Difference (C)    float64
+Indoor Relative Humidity (%)                     float64
+Equipment Electric Power (kWh)                   float64
+DHW Heating (kWh)                                float64
+Cooling Load (kWh)                               float64
+Heating Load (kWh)                               float64
+Solar Generation (W/kW)                          float64
+Occupant Count (people)                          float64
+Temperature Set Point (C)                        float64
+HVAC Mode (Off/Cooling/Heating)                    int64
+dtype: object
+Data types in DataFrame 4:
+kg_CO2/kWh    float64
+dtype: object
+Data types in DataFrame 5:
+Electricity Pricing [$/kWh]                   float64
+6h Prediction Electricity Pricing [$/kWh]     float64
+12h Prediction Electricity Pricing [$/kWh]    float64
+24h Prediction Electricity Pricing [$/kWh]    float64
+dtype: object
+Data types in DataFrame 6:
+Outdoor Drybulb Temperature (C)        float64
+Outdoor Relative Humidity (%)          float64
+Diffuse Solar Radiation (W/m2)         float64
+Direct Solar Radiation (W/m2)          float64
+6h Outdoor Drybulb Temperature (C)     float64
+12h Outdoor Drybulb Temperature (C)    float64
+24h Outdoor Drybulb Temperature (C)    float64
+6h Outdoor Relative Humidity (%)       float64
+12h Outdoor Relative Humidity (%)      float64
+24h Outdoor Relative Humidity (%)      float64
+6h Diffuse Solar Radiation (W/m2)      float64
+12h Diffuse Solar Radiation (W/m2)     float64
+24h Diffuse Solar Radiation (W/m2)     float64
+6h Direct Solar Radiation (W/m2)       float64
+12h Direct Solar Radiation (W/m2)      float64
+24h Direct Solar Radiation (W/m2)      float64
+dtype: object
+
+
+DataFrame 1 - Column Names:
+  Column 1: Month
+  Column 2: Hour
+  Column 3: Day Type
+  Column 4: Daylight Savings Status
+  Column 5: Indoor Temperature (C)
+  Column 6: Average Unmet Cooling Setpoint Difference (C)
+  Column 7: Indoor Relative Humidity (%)
+  Column 8: Equipment Electric Power (kWh)
+  Column 9: DHW Heating (kWh)
+  Column 10: Cooling Load (kWh)
+  Column 11: Heating Load (kWh)
+  Column 12: Solar Generation (W/kW)
+  Column 13: Occupant Count (people)
+  Column 14: Temperature Set Point (C)
+  Column 15: HVAC Mode (Off/Cooling/Heating)
+
+DataFrame 2 - Column Names:
+  Column 1: Month
+  Column 2: Hour
+  Column 3: Day Type
+  Column 4: Daylight Savings Status
+  Column 5: Indoor Temperature (C)
+  Column 6: Average Unmet Cooling Setpoint Difference (C)
+  Column 7: Indoor Relative Humidity (%)
+  Column 8: Equipment Electric Power (kWh)
+  Column 9: DHW Heating (kWh)
+  Column 10: Cooling Load (kWh)
+  Column 11: Heating Load (kWh)
+  Column 12: Solar Generation (W/kW)
+  Column 13: Occupant Count (people)
+  Column 14: Temperature Set Point (C)
+  Column 15: HVAC Mode (Off/Cooling/Heating)
+
+DataFrame 3 - Column Names:
+  Column 1: Month
+  Column 2: Hour
+  Column 3: Day Type
+  Column 4: Daylight Savings Status
+  Column 5: Indoor Temperature (C)
+  Column 6: Average Unmet Cooling Setpoint Difference (C)
+  Column 7: Indoor Relative Humidity (%)
+  Column 8: Equipment Electric Power (kWh)
+  Column 9: DHW Heating (kWh)
+  Column 10: Cooling Load (kWh)
+  Column 11: Heating Load (kWh)
+  Column 12: Solar Generation (W/kW)
+  Column 13: Occupant Count (people)
+  Column 14: Temperature Set Point (C)
+  Column 15: HVAC Mode (Off/Cooling/Heating)
+
+DataFrame 4 - Column Names:
+  Column 1: kg_CO2/kWh
+
+DataFrame 5 - Column Names:
+  Column 1: Electricity Pricing [$/kWh]
+  Column 2: 6h Prediction Electricity Pricing [$/kWh]
+  Column 3: 12h Prediction Electricity Pricing [$/kWh]
+  Column 4: 24h Prediction Electricity Pricing [$/kWh]
+
+DataFrame 6 - Column Names:
+  Column 1: Outdoor Drybulb Temperature (C)
+  Column 2: Outdoor Relative Humidity (%)
+  Column 3: Diffuse Solar Radiation (W/m2)
+  Column 4: Direct Solar Radiation (W/m2)
+  Column 5: 6h Outdoor Drybulb Temperature (C)
+  Column 6: 12h Outdoor Drybulb Temperature (C)
+  Column 7: 24h Outdoor Drybulb Temperature (C)
+  Column 8: 6h Outdoor Relative Humidity (%)
+  Column 9: 12h Outdoor Relative Humidity (%)
+  Column 10: 24h Outdoor Relative Humidity (%)
+  Column 11: 6h Diffuse Solar Radiation (W/m2)
+  Column 12: 12h Diffuse Solar Radiation (W/m2)
+  Column 13: 24h Diffuse Solar Radiation (W/m2)
+  Column 14: 6h Direct Solar Radiation (W/m2)
+  Column 15: 12h Direct Solar Radiation (W/m2)
+  Column 16: 24h Direct Solar Radiation (W/m2)
