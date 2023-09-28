@@ -11,7 +11,7 @@ In this forecast track, participants will design regression models to predict th
 Six csv files:
 1) Building_1 <br>
 2) Building_2<br>
-3)Building_3 <br>
+3) Building_3 <br>
 4) carbon_intensity <br>
 5) pricing <br>
 6) weather <br>
