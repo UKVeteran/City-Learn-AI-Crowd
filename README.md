@@ -37,14 +37,14 @@ Concat
 In the forecast track, participants are to develop regression prediction models for forecasting building loads, grid carbon intensity and solar generation. The forecasts should be provided at each time step for the following 48 time steps. The variables to be predicted are: 
 
 ## BUILDING-LEVEL
-Cooling Load (kWh)
-DHW Load (kWh)
-Equipment Electric Power (kWh) (a.k.a. non-shiftable load)
+1) Cooling Load (kWh)<br>
+2) DHW Load (kWh)<br>
+3) Equipment Electric Power (kWh) (a.k.a. non-shiftable load)<br>
 where each variable is forecasted for each building.
 
 ## NEIGHBORHOOD-LEVEL
-Carbon Intensity (kgCO2e/kWh)
-Solar Generation (W/kW)
+1) Carbon Intensity (kgCO2e/kWh)<br>
+2) Solar Generation (W/kW)<br>
 where each variable is forecasted for the entire neighborhood.
 
 # The Metric
