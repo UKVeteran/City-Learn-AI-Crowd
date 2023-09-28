@@ -27,7 +27,11 @@ Six csv files:
 
 
 ## Resultant Dataset
-
+Concat 
+1) scaled_b1 <br>
+2) scaled_b2 <br>
+3) scaled_b3 <br>
+4) scaled_cint
 
 # Problem Statement
 In the forecast track, participants are to develop regression prediction models for forecasting building loads, grid carbon intensity and solar generation. The forecasts should be provided at each time step for the following 48 time steps. The variables to be predicted are: 
