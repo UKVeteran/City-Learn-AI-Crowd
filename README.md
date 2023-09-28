@@ -14,10 +14,16 @@ Six csv files:
 3) Building_3 <br>
 4) carbon_intensity <br>
 5) pricing <br>
-6) weather <br>
+6) weather 
 
 ## Robust-Scaled Dataset
-
+Six csv files:
+1) scaled_b1 <br>
+2) scaled_b2 <br>
+3) scaled_b3 <br>
+4) scaled_cint <br>
+5) scaled_pr <br>
+6) scaled_weat 
 
 
 ## Resultant Dataset
