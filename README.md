@@ -40,12 +40,11 @@ Six csv files:
 6) scaled_weat 
 
 
-# Resultant Dataset: BUILDING-LEVEL
-Concat 
-1) scaled_b1 <br>
-2) scaled_b2 <br>
-3) scaled_b3 <br>
-4) scaled_cint
+# The Full Dataset: BUILDING-LEVEL & NEIGHBORHOOD-LEVEL
+
+Has shape: (2160, 36)
+
+
 
 
 
